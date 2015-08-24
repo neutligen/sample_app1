@@ -26,6 +26,3 @@ module SampleApp1
     # config.i18n.default_locale = :de
   end
 end
-
-# for heroku deploy
-config.assets.initialize_on_precompile = false
